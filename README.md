@@ -6,7 +6,12 @@ A full-featured Flutter application built for the Developer Assignment.
 
 ## 🚀 Setup Instructions
 
-### Step 1 — Get Your API Keys (REQUIRED)
+### Step 1 — Clone repository
+```bash
+git clone https://github.com/harshitsagar/flutter_assignment.git
+```
+
+### Step 2 — Get Your API Keys (REQUIRED)
 
 Open `lib/core/constants/app_constants.dart` and replace the placeholder values:
 
@@ -29,13 +34,13 @@ Open `lib/core/constants/app_constants.dart` and replace the placeholder values:
 
 ---
 
-### Step 2 — Install Dependencies
+### Step 3 — Install Dependencies
 
 ```bash
 flutter pub get
 ```
 
-### Step 3 — Run the App
+### Step 4 — Run the App
 
 ```bash
 flutter run
